@@ -14,3 +14,5 @@ Mandatory arguments: '-m [modelname]' or '--model=[modelname]'.
 Optional arguments for debugging: '-s' or '--showBoards'.
                                   '-i' or '--intermediateDigits'.
                                   '-p' or '--showProcessingSteps'. 
+
+##Please Refer Report.pdf to learn more about our project.
